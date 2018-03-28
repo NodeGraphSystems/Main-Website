@@ -1,10 +1,8 @@
-language: node_js
-language: html
-node_js:
-
-  - "node"
-dkghszjdi
-
+language: ruby
+rvm:
+ - 2.2
+ - jruby
+ - rbx-3
 
 deploy:
 
